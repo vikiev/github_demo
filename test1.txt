@@ -1,5 +1,0 @@
-this is test file
-
-
-https://github.com/vikiev/GitTest.git
-<<<<<<< HEAD
